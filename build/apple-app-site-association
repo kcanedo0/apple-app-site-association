@@ -1,14 +1,14 @@
 {
   "webcredentials": {
     "apps": [
-      "7C284HW7NH.com.gorentals.goexchange" // Replace this
+      "7C284HW7NH.com.gorentals.goexchange"
     ]
   },
   "applinks": {
-    "apps": [], // needs to be empty
+    "apps": [],
     "details": [
       {
-        "appID": "7C284HW7NH.com.gorentals.goexchange", // This too
+        "appID": "7C284HW7NH.com.gorentals.goexchange",
         "paths": [
           "*"
         ]
