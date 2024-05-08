@@ -1,11 +1,18 @@
 {
-    "applinks": {
-        "apps": [],
-        "details": [
-            {
-                "appID": "7C284HW7NH.com.gorentals.gopayments",
-                "paths": ["/OAuthResponse/*"]
-            }
+  "webcredentials": {
+    "apps": [
+      "7C284HW7NH.com.gorentals.goexchange" // Replace this
+    ]
+  },
+  "applinks": {
+    "apps": [], // needs to be empty
+    "details": [
+      {
+        "appID": "7C284HW7NH.com.gorentals.goexchange", // This too
+        "paths": [
+          "*"
         ]
-    }
+      }
+    ]
+  }
 }
